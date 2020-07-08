@@ -4,10 +4,13 @@ This project is a pathfinder for visually impaired people. It takes a picture fr
 
 
 If there are obstacles on the left. The Application says "to turn right" with audio. Also, It shows an arrow image that shows going direction on the screen.
-![Turn Left](https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/2.jpeg)
+<img src="https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/2.jpeg" width="200" height="395">
+
 If there are obstacles on the right. The Application says "to turn left" with audio. Also, It shows an arrow image that shows going direction on the screen.
-![Go Straight](https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/1.jpeg)
+<img src="https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/1.jpeg" width="200" height="395">
+
 If there is no obstacle on the road. The Application says "go straight" with audio. Also, It shows an arrow image that shows going direction on the screen.
-![Slow Down](https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/3.jpeg)
+<img src="https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/3.jpeg" width="200" height="395">
+
 If there are obstacles more than one direction on the road. The Application says "Slow Down" with audio. Also, It shows an image that tells it to slow down on the screen.
 
