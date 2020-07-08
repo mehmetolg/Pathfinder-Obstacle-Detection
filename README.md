@@ -1,6 +1,7 @@
 # Pathfinder-Obstacle-Detection
 This project is a pathfinder for visually impaired people. It takes a picture from camera of mobile phone then detection obstacles by deep learning model. Then It says to turn right, to turn left or go straight. The mobile application does this in a loop. 
-![Turn Right](https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/4.jpeg)
+
+<img src="https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/4.jpeg" width="400" height="110">
 If there are obstacles on the left. The Application says "to turn right" with audio. Also, It shows an arrow image that shows going direction on the screen.
 ![Turn Left](https://github.com/mehmetolg/Pathfinder-Obstacle-Detection/blob/master/2.jpeg)
 If there are obstacles on the right. The Application says "to turn left" with audio. Also, It shows an arrow image that shows going direction on the screen.
